@@ -1,0 +1,1 @@
+O professor organizou as colunas e fileiras de forma a sempre ter 2 estudantes de um grupo e quatro do outro. Assim cruzando coluna com fileiras ele encontra a troca facilmente.
