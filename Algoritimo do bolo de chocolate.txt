@@ -1,0 +1,53 @@
+Algoritimo do Bolo de Chocolate.
+
+1 - Separar os utensilos(Vasilha, Colher de Pau, batedeira(caso possua) Forma retangular, xicaras e copos para armazenamento dos ingredientes, palito para verificar o ponto do bolo, luvas para manuseio da forma quente, prato grande ou recipiente para armazenar o bolo após assado);
+2 - Separar os ingredientes que serão utilizados(2 ovos, 200 ml de leite, 400g de farinha, 200g  de açúcar, 100g de manteiga e 150g de achocolatado em pó, 20g de fermento em pó quimico);
+//Não sei se foi proposital mas faltou fermento na receita. Penso ser um ingrediente essencial, portanto vou acrescentar.
+3 - Ligar o forno;
+4- Acertar a temperatura para 180 °C;
+5 - Untar a forma (Aplicar a manteiga na superficie da forma e polvilhar a farinha);
+6 - Pegar a vasilha e iniciar a mistura dos ingredientes com a mistura dos secos (com exceção do fermento) na seguinte ordem (Farinha, açucar, achocolatado em pó);
+7 -  Misturar os ingredientes secos;
+8 - Quebra um ovo em uma xicara;
+9 - Verificar se o ovo está em boas condições 9.1 (Caso esteja estragado descartar, lavar a xicara e pegar outro ovo na geladeira e repetir o processo) - 9.2 (Caso esteja em boas condições siga para o próximo passo);
+10 - Acrescente o ovo na mistura;
+11 - Repita os passos 8, 9 e 10 para adicionar o outro ovo à mistura;
+12 - Acrescente o leite a mistura;
+13 - Acrescente a manteiga; 
+14 -  (Caso possua bateteira) - Insira a vasilha na base da batedeira;
+15 - Ligue a batedeira;
+(caso não possua batedeira) - 15b - Pegue a colher de Pau; 16b - Misture os ingredientes usando a colher de pau até obter uma consistência homogênea (de 7 a 10 minutos) Siga para o passo 19;
+16 - Ajuste a bataeira em velocidade média;
+17 - Bata a mistura até que fique em uma consistência homogênea (de 3 a 5 minutos);
+18 - Desligue a batedeira;
+19 - Acrescente o fermento a mistura;
+20 - Mexa devagar até que dissolva na mistura;
+21 - Coloque a mistura na forma untada;
+22 - Abra o forno;
+23 - Coloque a forma no forno;
+24 - Feche o forno;
+25 - Marque aguarde 40 min com o forno na temperatura de 180°C;
+27 - Enquanto aguarda lave os utensilhos;
+28 - Após os 40 min abra o forno;
+29 - Insira o palito no bolo; 
+30 - Verifique o palito; (Se o palito estiver seco siga para o próximo passo) Senão -  31b - Feche o forno. 32b - Aguarde mais 5 minutos e repita o passo 29.
+31 - Pegue as luvas;
+32 - Coloque as luvas;
+33 - Retire o bolo do forno;
+34 - Coloque o bolo na pia;
+35 - Retire as luvas;
+36 - Desligue o forno;
+37 - Feche o forno;
+38 - Aguarde o bolo esfriar por cerca de 15 minutos;
+39 - Pegue o recipiente para armazenar o bolo;
+40 - Pegue a forma;
+41 - Coloque o recipiente virado para baixo em cima da forma;
+42 - Vire a forma em cima do recipiente de forma que o recipiente fique apoiado a superficie e a forma virada para baixo;
+43 - Balance a forma levemente até que sinta que o bolo "descolou";
+44 - Levante a forma (caso o bolo saia por completo siga para o próximo passo) Senão (45b - Repita o passo 43 até que o bolo saia completamente da forma);
+45 - Coloque a forma na pia;
+46 - Lave a forma;
+Fim da receita, o bolo está pronto para ser consumido.
+
+
+
